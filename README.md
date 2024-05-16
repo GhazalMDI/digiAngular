@@ -1,0 +1,1 @@
+Hello everyone, this project is written with Angular framework and it is almost similar to Digikala store site. This project does not have a backend; But it will be connected to the Django framework soon.
